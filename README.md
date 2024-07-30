@@ -27,5 +27,6 @@ In our analysis, we conducted hypothesis tests for three different case studies:
    Conclusion: There is sufficient statistical evidence to infer that the average volume of milk in cartons is not equal to 500ml.
 3. Weight of Widgets
    Conclusion: There is no sufficient statistical evidence to say that the true mean weight of widgets produced by the new method is less than 20 grams.
+   
 These findings are crucial for maintaining product quality and operational efficiency.
 
